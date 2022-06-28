@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://i0.wp.com/cachosaventureiros.com/wp-content/uploads/2022/01/20220111_121250.jpg?fit=1200%2C900&ssl=1"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,8 +19,8 @@
   {
     "descricao": "Eliminatórias copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Neo Química Arena",
+      "imagem": "https://br.kairosweb.com/wp-content/uploads/2020/09/Neoquimica-arena-1.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -36,8 +36,8 @@
   {
     "descricao": "Eliminatórias copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Estádio Centenário",
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
     },
     "mandante": {
       "nome": "França",
