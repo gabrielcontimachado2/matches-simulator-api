@@ -23,14 +23,31 @@
       "imagem": "TODO"
     },
     "mandante": {
-      "nome": "Roma",
+      "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante":{
-      "nome": "Grecia",
+      "nome": "França",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "França",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
+    },
+    "visitante":{
+      "nome": "Espanha",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
     }
   }
 ]
